@@ -1,0 +1,12 @@
+# Temporary local backups
+_backup_old_blogposts/
+_backup_priya_studio/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch files
+*.tmp
+*.log

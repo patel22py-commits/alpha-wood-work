@@ -1,0 +1,15 @@
+# Robots.txt for AlphaWoodworkingPlan
+# https://alphawoodworkingplan.com/
+
+User-agent: *
+Allow: /
+
+# Specifically welcome Pinterestbot for visual discovery indexing
+User-agent: Pinterestbot
+Allow: /
+
+# Disallow 404 error page from indexation
+Disallow: /404.html
+
+# XML Sitemap
+Sitemap: https://alphawoodworkingplan.com/sitemap.xml

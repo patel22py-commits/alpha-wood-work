@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found (404) — AlphaWoodworkingPlan</title>
+  <meta name="description" content="Sorry, the woodworking plan or page you're looking for was moved or doesn't exist. Explore our latest DIY plans and cut lists.">
+  <link rel="stylesheet" href="css/alpha-woodworking.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="nav-wrap">
+        <a href="index.html" class="site-logo">
+          <div class="logo-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M12 2v4M12 18v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"></path></svg>
+          </div>
+          <span>AlphaWoodworking<span class="plan-badge">Plan</span></span>
+        </a>
+
+        <nav class="primary-nav">
+          <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="backyard-projects.html">Backyard Projects</a></li>
+            <li><a href="beginner-projects.html">Beginner Projects</a></li>
+            <li><a href="space-saving-projects.html">Space-Saving Projects</a></li>
+            <li><a href="diy-furniture.html">DIY Furniture</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="section" style="padding: 6rem 0; text-align: center;">
+      <div class="container" style="max-width: 640px;">
+        <div style="font-size: 4.5rem; margin-bottom: 1rem;">🪵 🪚</div>
+        <span class="badge badge-wood" style="margin-bottom: 1rem;">Error 404</span>
+        <h1 style="font-size: 2.75rem; margin-bottom: 1rem; color: var(--color-charcoal);">Looks Like We Hit a Knot!</h1>
+        <p style="font-size: 1.15rem; color: var(--color-text-muted); line-height: 1.6; margin-bottom: 2rem;">
+          The page or plan you're looking for may have been trimmed, relocated, or planed away. Let's get you back on the right cut line.
+        </p>
+
+        <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 3rem;">
+          <a href="index.html" class="btn btn-primary">Return to Homepage</a>
+          <a href="backyard-projects.html" class="btn btn-outline">Backyard Projects</a>
+          <button class="btn btn-secondary btn-search-trigger">Search Projects</button>
+        </div>
+
+        <div style="background: var(--color-surface); border: 1px solid var(--color-border); border-radius: 12px; padding: 2rem; text-align: left;">
+          <h3 style="font-size: 1.2rem; margin-bottom: 1rem; color: var(--wood-dark);">Explore Categories:</h3>
+          <ul style="line-height: 1.8; margin-left: 1.25rem;">
+            <li><a href="backyard-projects.html">Backyard Projects (Planters, benches, raised beds)</a></li>
+            <li><a href="beginner-projects.html">Beginner Projects (Birdhouses, cutting boards, crates)</a></li>
+            <li><a href="space-saving-projects.html">Space-Saving Projects (Folding workbenches, shoe racks)</a></li>
+            <li><a href="diy-furniture.html">DIY Furniture (Side tables, dining tables, bookcases)</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container" style="text-align: center;">
+      <p style="color: #78716C; font-size: 0.875rem;">&copy; 2026 AlphaWoodworkingPlan. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Search Modal -->
+  <div id="searchModal" class="search-modal" role="dialog" aria-modal="true" aria-label="Search Woodworking Projects">
+    <div class="search-dialog">
+      <div class="search-dialog-header">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#78716C" stroke-width="2.5"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="text" class="search-input-field" placeholder="Search by title, keyword (e.g. cedar, workbench, planter)..." aria-label="Search query">
+        <button class="search-close-btn" aria-label="Close search modal">&times;</button>
+      </div>
+      <div class="search-dialog-body"><div class="search-results-list"></div></div>
+    </div>
+  </div>
+
+  <script src="js/alpha-woodworking.js"></script>
+</body>
+</html>
