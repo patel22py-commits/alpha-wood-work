@@ -261,6 +261,55 @@ const ALPHA_PROJECTS_DATA = [
       'Fit wide armrests: Cut paddle-shaped 1x6 armrests and level them onto front 2x4 legs.',
       'Finish: Sand all curved edges with 180 grit and apply 3 coats of marine spar urethane.'
     ]
+  },
+
+  // ==========================================
+  // 2. DIY FURNITURE
+  // ==========================================
+  {
+    id: 'floating-staircase-shelf',
+    title: 'DIY Floating Staircase Shelf (5-Step Wall Display)',
+    category: 'DIY Furniture',
+    categorySlug: 'diy-floating-staircase-shelf.html',
+    difficulty: 'Beginner–Intermediate',
+    time: '4–6 Hours',
+    budget: '$45 – $80',
+    dimensions: '48" W × 48" H × 8" D (12" Step Width)',
+    image: 'images/diy-floating-staircase-shelf.jpg',
+    pinImage: 'images/diy-floating-staircase-shelf.jpg',
+    excerpt: 'Modern wall-mounted floating staircase display shelf with 5 ascending wooden steps, hidden mounting rail, and warm LED accent lighting.',
+    keywords: 'floating staircase shelf, DIY staircase shelf, modern wall shelf, wooden display shelf, floating shelves',
+    materials: [
+      '10 pieces – 12" × 8" (1" thick) Solid Wood boards (Shelf Tops/Bottoms)',
+      '10 pieces – 12" × 8" (1" thick) Solid Wood boards (Vertical Sides)',
+      '1 piece – 48" × 3" Back Mounting Rail / Ledger',
+      'Heavy-duty steel L-brackets or concealed floating brackets',
+      'Structural wall mounting screws (into studs) & 1-1/4" wood screws',
+      'Wood glue (Titebond II) & wood filler',
+      'Sandpaper (120, 180, and 220 grit)',
+      'Wood stain or clear satin polyurethane',
+      'Optional warm white LED strip lighting kit'
+    ],
+    tools: [
+      'Miter saw or circular saw',
+      'Cordless drill & driver bits',
+      'Combination square & tape measure',
+      '2-foot level & stud finder',
+      'Bar clamps or 90° corner clamps',
+      'Random orbital sander',
+      'Safety glasses and hearing protection'
+    ],
+    steps: [
+      'Sketch Layout & Plan Wall: Measure wall area for 48" × 48" footprint and mark stud locations with a stud finder.',
+      'Cut Components to Spec: Cut 10 shelf tops/bottoms (12" × 8"), 10 vertical sides (12" × 8"), and 1 back rail (48" × 3").',
+      'Sand & Prep Boards: Sand all board faces and edges smooth to 220 grit, wiping away sawdust.',
+      'Assemble Individual Step Boxes: Glue and screw shelf tops to vertical stiles using 90° clamps and square corners.',
+      'Mount Back Ledger Rail: Anchor the 48" mounting rail level directly into wall studs with 3" structural screws.',
+      'Attach First Base Shelf: Secure bottom-most step to mounting rail, checking level in both directions.',
+      'Install Ascending Steps: Progressively interlock and screw each step onto the previous riser up to the 5th tier.',
+      'Apply Protective Finish: Stain in desired tone (walnut, oak, or natural) and seal with 2 coats of satin clear finish.',
+      'Install LED Lighting & Decorate: Adhere warm LED strip underneath shelf steps and curate plants, books, and decor.'
+    ]
   }
 ];
 
