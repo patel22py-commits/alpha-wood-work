@@ -47,6 +47,50 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'murphy-backyard-workbench',
+    title: 'DIY Murphy-Style Backyard Workbench (Fold-Down Workshop)',
+    category: 'Backyard Projects',
+    categorySlug: 'diy-murphy-backyard-workbench.html',
+    difficulty: 'Intermediate',
+    time: '6–8 Hours',
+    budget: '$95 – $160',
+    dimensions: '72" W × 48" H × 24" D (10" Closed Depth)',
+    image: 'images/diy-murphy-backyard-workbench.jpg',
+    pinImage: 'images/diy-murphy-backyard-workbench.jpg',
+    excerpt: 'Space-saving fold-down woodworking workshop featuring a wall-mounted wooden cabinet, organized tool storage panel, interior shelving, and a 72" folding work surface.',
+    keywords: 'murphy workbench, fold down workbench, backyard workbench, small workshop, wall mounted workbench',
+    materials: [
+      'Lumber suitable for the cabinet frame (2x4, 1x6, or 1x4 select stock)',
+      '3/4" Plywood for heavy-duty fold-down work surface and carcass',
+      'Exterior-rated structural screws and corrosion-resistant fasteners',
+      'Heavy-duty piano hinges or rated strap hinges',
+      'Properly rated folding workbench triangle support brackets (300+ lb)',
+      'Wall-mounting hardware suitable for wall studs or solid masonry',
+      'Interior shelving material, pegboard or slotted tool panel',
+      'Exterior protective spar urethane or penetrating wood oil finish'
+    ],
+    tools: [
+      'Tape measure, pencil & combination square',
+      'Circular saw or track saw',
+      'Cordless drill and impact driver set',
+      'Bar clamps & pocket hole jig',
+      '4-foot level & stud finder',
+      'Random orbital sander (80 to 220 grit)',
+      'Safety glasses and hearing protection'
+    ],
+    steps: [
+      'Choose Location & Measure: Select sturdy wall space allowing 72" width and 24" open projection with ample walking clearance.',
+      'Design Cabinet Frame: Sketch front, side, and open profiles with internal shelf positions and tool panel layout.',
+      'Cut & Assemble Box: Cut 1x10 or 2x8 perimeter boards and assemble rigid rectangular cabinet with square corners.',
+      'Install Tool Panel & Shelves: Mount back panel with tool holders, pegboard hooks, and shelf dividers for jars and bins.',
+      'Build Fold-Down Work Surface: Cut 3/4" plywood top with edge banding and mount heavy-duty continuous hinge along bottom rail.',
+      'Secure Cabinet to Wall: Anchor cabinet directly into solid wall studs using heavy structural timber screws and check level.',
+      'Install Folding Support Brackets: Mount rated folding triangular brackets beneath worktop and verify positive locking engagement.',
+      'Sand & Apply Protective Finish: Sand smooth to 180 grit and apply weather-resistant spar urethane or protective finish.',
+      'Organize & Safety Test: Mount tools, test folding clearance, and apply gradual test weights before routine woodworking use.'
+    ]
+  },
+  {
     id: 'backyard-planter-box',
     title: 'Cedar Outdoor Planter Box',
     category: 'Backyard Projects',
