@@ -120,35 +120,6 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
-    id: 'backyard-raised-garden-bed',
-    title: '4x8 ft Ergonomic Raised Garden Bed',
-    category: 'Backyard Projects',
-    categorySlug: 'backyard-projects.html',
-    difficulty: 'Beginner',
-    time: '2â€“3 Hours',
-    budget: '$60 â€“ $95',
-    dimensions: '4\' W Ã— 8\' L Ã— 12" H',
-    image: 'https://images.unsplash.com/photo-1592417817098-8f3d69109853?auto=format&fit=crop&w=1000&q=80',
-    pinImage: 'https://images.unsplash.com/photo-1592417817098-8f3d69109853?auto=format&fit=crop&w=1000&h=1500&q=80',
-    excerpt: 'Deep vegetable raised bed featuring thick 2x6 untreated cedar walls, reinforced 4x4 internal corner posts, and rodent-proof hardware cloth.',
-    keywords: 'raised garden bed, 4x8 garden bed, cedar vegetable planter, backyard gardening diy',
-    materials: [
-      '6 boards â€“ 2x6 Ã— 8 ft Untreated Cedar, Hem-Fir, or Cypress',
-      '1 post â€“ 4x4 Ã— 6 ft Untreated Cedar (cut into 4 corner posts)',
-      '1 roll â€“ 1/2" Galvanized hardware wire cloth (4x8 ft)',
-      '1 box â€“ 3" Heavy-duty exterior construction screws'
-    ],
-    tools: ['Circular saw or hand saw', 'Impact driver', 'Heavy-duty staple gun & tin snips', 'Level'],
-    steps: [
-      'Cut end boards: Cut three 8 ft boards exactly in half to create six 4 ft end planks.',
-      'Cut corner posts: Cut the 4x4 post into four 12" corner stanchions.',
-      'Assemble side walls: Screw two 2x6 Ã— 8 ft planks into corner posts using two 3" screws per joint.',
-      'Attach end walls: Fasten the 4 ft end planks to complete the rectangular perimeter.',
-      'Square the frame: Measure diagonals to confirm equal lengths and verify corners at 90Â°.',
-      'Attach hardware cloth: Turn bed over and staple galvanized hardware cloth to the bottom edges to prevent burrowing pests.'
-    ]
-  },
-  {
     id: 'backyard-patio-cooler',
     title: 'Slatted Patio Drink Cooler Stand',
     category: 'Backyard Projects',
