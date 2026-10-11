@@ -91,35 +91,6 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
-    id: 'backyard-planter-box',
-    title: 'Cedar Outdoor Planter Box',
-    category: 'Backyard Projects',
-    categorySlug: 'backyard-projects.html',
-    difficulty: 'Beginner',
-    time: '2â€“3 Hours',
-    budget: '$30 â€“ $45',
-    dimensions: '18" W Ã— 18" L Ã— 16" H',
-    image: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=1000&q=80',
-    pinImage: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=1000&h=1500&q=80',
-    excerpt: 'Durable rot-resistant Western Red Cedar planter box with interior drainage slats, landscape fabric liner, and clean top cap trim.',
-    keywords: 'backyard planter, outdoor cedar planter box, diy flower box, patio gardening build',
-    materials: [
-      '3 boards â€“ 1x6 Ã— 8 ft Western Red Cedar (or Redwood)',
-      '1 board â€“ 2x2 Ã— 8 ft Cedar (internal corner cleats)',
-      '1 box â€“ 1-5/8" Exterior coated deck screws (Tan or Stainless)',
-      'Landscape fabric mesh roll & 1/2" exterior staples'
-    ],
-    tools: ['Miter saw or hand saw', 'Cordless drill & driver bits', 'Countersink bit', 'Speed square & tape measure'],
-    steps: [
-      'Cut side slats: Cut twelve pieces of 1x6 cedar to 16.5" lengths.',
-      'Cut corner cleats: Cut four pieces of 2x2 cedar to 14.5" length.',
-      'Assemble side panels: Fasten 3 slats per side to the corner cleats using exterior deck screws and countersunk pilot holes.',
-      'Install slatted base: Add 2x2 bottom runners and fit 3 spaced slats with 1/4" drainage gaps.',
-      'Attach top mitered frame: Cut 1x6 top cap pieces with 45Â° miters for a clean finished reveal.',
-      'Line with landscape fabric: Staple breathable landscape fabric inside to retain soil while allowing free drainage.'
-    ]
-  },
-  {
     id: 'backyard-garden-bench',
     title: 'Rustic 2x4 & 2x6 Garden Bench',
     category: 'Backyard Projects',
