@@ -8,6 +8,52 @@ const ALPHA_PROJECTS_DATA = [
   // 1. BACKYARD PROJECTS
   // ==========================================
   {
+    id: 'convertible-porch-swing-daybed',
+    title: 'DIY Convertible Porch Swing Daybed (2-in-1 Outdoor Swing)',
+    category: 'Backyard Projects',
+    categorySlug: 'diy-convertible-porch-swing-daybed.html',
+    difficulty: 'Intermediate–Advanced',
+    time: '10–12 Hours',
+    budget: '$140 – $220',
+    dimensions: '78" W × 48" D × 80" H (198 cm × 122 cm × 203 cm)',
+    image: 'images/diy-convertible-porch-swing-daybed.jpg',
+    pinImage: 'images/diy-convertible-porch-swing-daybed.jpg',
+    excerpt: 'Transform your backyard with a wooden porch swing that converts into a relaxing daybed. Features slatted wooden backrest, adjustable side arms, and outdoor cushions.',
+    keywords: 'porch swing daybed, convertible swing bed, backyard daybed, outdoor swing, 2-in-1 swing daybed, wooden porch swing',
+    materials: [
+      'Outdoor-suitable lumber for the main frame (Cedar, Cypress, or Treated Timber)',
+      'Lumber for the seat, backrest, and adjustable side arms',
+      'Structural fasteners and lag screws suitable for exterior use',
+      'Appropriate hinges or conversion hardware rated for loads',
+      'Properly engineered suspension system (heavy-duty welded chains & eye bolts)',
+      'Suitable connection hardware for the overhead beam',
+      'Exterior-rated protective wood finish or stain',
+      'Outdoor cushions and removable weather-resistant covers',
+      'Anchoring hardware for installation surface'
+    ],
+    tools: [
+      'Tape measure, pencil & combination square',
+      'Circular saw or miter saw',
+      'Cordless drill and driver set',
+      'Wood clamps (assorted sizes)',
+      'Random orbital sander (80 to 220 grit)',
+      'Spirit level (4-foot and torpedo)',
+      'Safety glasses and hearing protection',
+      'Socket set or wrenches for suspension bolts'
+    ],
+    steps: [
+      'Choose Location: Select porch, patio, or freestanding A-frame arbor with ample clearance.',
+      'Draw Main Frame: Draft vertical posts, overhead beam, seat frame, and conversion arm geometry.',
+      'Cut & Assemble Frame: Measure, cut, and join main structural members with square corners and exterior fasteners.',
+      'Build Seat & Backrest: Assemble rigid slatted seat and ergonomic backrest designed for load-bearing strength.',
+      'Create Convertible Side Arms: Mount pivot hinges, movement tracks, and secure locking pins for daybed mode.',
+      'Install Suspension System: Install rated eye bolts, heavy-duty chains, and overhead beam mounting hardware.',
+      'Finish the Wood: Sand smooth to 180 grit and apply multiple coats of exterior UV-resistant finish.',
+      'Add Outdoor Cushions: Install weather-resistant cushions sized to fit without obstructing conversion latches.',
+      'Inspect & Safety Test: Inspect all connections and test conversion mechanism thoroughly before regular use.'
+    ]
+  },
+  {
     id: 'convertible-picnic-table',
     title: 'DIY Convertible Picnic Table (Dining & Game Table)',
     category: 'Backyard Projects',
