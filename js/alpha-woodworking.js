@@ -91,6 +91,39 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'space-saving-tailgate-workbench',
+    title: 'DIY Foldable Tailgate Workbench',
+    category: 'Space-Saving Projects',
+    categorySlug: 'diy-foldable-tailgate-workbench.html',
+    difficulty: 'Intermediate',
+    time: '6–8 Hours',
+    budget: '$85 – $140',
+    dimensions: '48" W × 24" D (Surface) | 24" H Legs',
+    image: 'images/diy-foldable-tailgate-workbench.jpg',
+    pinImage: 'images/diy-foldable-tailgate-workbench.jpg',
+    excerpt: 'Portable truck bed woodworking station with 48" × 24" fold-down work surface, folding support legs, and tool storage panel.',
+    keywords: 'tailgate workbench, portable truck workshop, folding workbench diy, space saving workbench, truck bed table',
+    materials: [
+      '1 sheet – 3/4" Exterior ACX Plywood (cut to 48" × 24" tabletop)',
+      '3 boards – 2x4 × 8 ft Kiln-Dried Lumber or Hardwood (frame)',
+      '1 panel – 1/2" Plywood or Pegboard (tool storage backboard)',
+      '1 pair – Heavy-duty locking folding leg brackets (rated 300+ lbs)',
+      '1 pair – Stainless steel piano hinges or heavy tailgate pivots',
+      'Box of 2-1/2" exterior wood screws and locking mounting bolts',
+      'Exterior marine spar varnish or durable urethane finish'
+    ],
+    tools: ['Circular saw or track saw', 'Drill and driver set', 'Combination square & level', 'Orbital sander with 120/180 grit', 'Safety glasses'],
+    steps: [
+      'Inspect Truck & Tailgate: Check tailgate construction, attachment points, and clearance.',
+      'Cut Tabletop & Frame: Cut 3/4" plywood top to 48" × 24" and assemble rigid perimeter frame.',
+      'Mount Hinges & Folding Mechanism: Install heavy-duty pivots allowing tabletop to drop down flush.',
+      'Install Folding Support Legs: Mount dual 24" support legs with positive locking brace pins.',
+      'Build Tool Storage Panel: Fasten upright rear backboard with custom tool slots and parts containers.',
+      'Apply Weather-Resistant Finish: Sand smooth and seal with 3 coats of exterior spar varnish.',
+      'Safety Inspection & Test: Verify latch engagement and test under gradual load.'
+    ]
+  },
+  {
     id: 'backyard-garden-bench',
     title: 'Rustic 2x4 & 2x6 Garden Bench',
     category: 'Backyard Projects',
