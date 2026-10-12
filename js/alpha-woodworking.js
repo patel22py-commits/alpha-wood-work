@@ -288,6 +288,50 @@ const ALPHA_PROJECTS_DATA = [
   // 2. DIY FURNITURE
   // ==========================================
   {
+    id: 'giant-connect-4-game',
+    title: 'DIY Giant Connect 4 Game (Oversized Backyard Game)',
+    category: 'DIY Furniture',
+    categorySlug: 'diy-giant-connect-4-game.html',
+    difficulty: 'Intermediate',
+    time: '6–8 Hours',
+    budget: '$75 – $130',
+    dimensions: '56" W × 48" H × 24" D (6.5" Holes | 6" Discs)',
+    image: 'images/diy-giant-connect-4-game.jpg',
+    pinImage: 'images/diy-giant-connect-4-game.jpg',
+    excerpt: 'Oversized wooden Connect Four game for backyard parties, family game nights, and outdoor fun featuring 42 circular openings and playing discs.',
+    keywords: 'giant connect 4, connect four game, backyard game, yard game woodworking, oversized connect 4, outdoor wooden games',
+    materials: [
+      'Suitable plywood or solid wood panels for the game grid (7 cols × 6 rows)',
+      'Lumber for side frames and wide stability base (2x4 / 2x6 framing)',
+      'Appropriate screws, carriage bolts, and structural fasteners',
+      'Wooden or composite playing discs in 2 contrasting colors (42 discs total)',
+      'Exterior or interior protective finish (spar urethane, paint, or wood stain)',
+      'Sandpaper (80, 120, and 220 grits)',
+      'Optional hardware for removable release bar or collection tray'
+    ],
+    tools: [
+      'Tape measure, pencil & combination square',
+      'Circular saw or table saw',
+      'Cordless drill and driver set',
+      'Hole saw (6.5" diameter) or jigsaw for circular openings',
+      'Bar clamps & quick-grip clamps',
+      'Random orbital sander',
+      'Spirit level',
+      'Safety glasses and hearing protection'
+    ],
+    steps: [
+      'Design the Grid: Layout 7 columns and 6 rows with consistent spacing and structural margins.',
+      'Cut the Game Panel: Cut panels to 56" × 48" and drill 42 smooth 6.5" circular openings.',
+      'Make Playing Discs: Fabricate 42 contrasting 6" discs (21 red, 21 yellow) with chamfered edges.',
+      'Build Side Frames: Assemble vertical upright timber posts with internal guide channels.',
+      'Build Wide Base: Construct 24" wide angled support feet for maximum tipping resistance.',
+      'Assemble the Board: Secure game panels into side uprights and mount firmly to base.',
+      'Sand & Apply Finish: Sand all holes and surfaces smooth, sealing with outdoor UV protective finish.',
+      'Test Disc Movement: Drop test sample discs through every column to verify unobstructed drop.',
+      'Play & Enjoy: Set up on level ground, invite friends, and enjoy classic 4-in-a-row outdoor fun!'
+    ]
+  },
+  {
     id: 'floating-staircase-shelf',
     title: 'DIY Floating Staircase Shelf (5-Step Wall Display)',
     category: 'DIY Furniture',
