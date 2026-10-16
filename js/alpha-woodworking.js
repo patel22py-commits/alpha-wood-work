@@ -203,35 +203,6 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
-    id: 'backyard-garden-bench',
-    title: 'Rustic 2x4 & 2x6 Garden Bench',
-    category: 'Backyard Projects',
-    categorySlug: 'backyard-projects.html',
-    difficulty: 'Beginnerâ€“Int',
-    time: '3â€“4 Hours',
-    budget: '$40 â€“ $65',
-    dimensions: '48" L Ã— 16" W Ã— 18" H',
-    image: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1000&q=80',
-    pinImage: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1000&h=1500&q=80',
-    excerpt: 'Rock-solid outdoor patio bench built from dimensional 2x4 and 2x6 lumber with angled stance legs to prevent lawn wobbling.',
-    keywords: 'garden bench, rustic patio bench, 2x4 outdoor seating, backyard wood bench diy',
-    materials: [
-      '2 boards â€“ 2x6 Ã— 8 ft Ground-contact or Douglas Fir lumber',
-      '3 boards â€“ 2x4 Ã— 8 ft Construction lumber',
-      '1 box â€“ 2-1/2" Blue-Kote exterior pocket hole screws',
-      'Waterproof wood glue (Titebond III Exterior)'
-    ],
-    tools: ['Circular saw or miter saw', 'Pocket hole jig', 'Orbital sander with 80/120/180 grit', 'Clamps'],
-    steps: [
-      'Cut seat planks: Cut two 2x6 boards to 48" length and edge-round the outer profiles.',
-      'Cut A-frame leg assemblies: Cut four 2x4 legs at 10Â° complementary angles to 17" height.',
-      'Build leg stretchers: Join the angled legs with horizontal 2x4 crossbars using pocket screws and waterproof glue.',
-      'Mount longitudinal support: Install a central 42" long 2x4 stretcher connecting the two leg frames.',
-      'Fasten top seat: Secure the 2x6 seat planks from underneath to hide screw heads.',
-      'Apply exterior sealer: Sand thoroughly to 150 grit and brush on exterior penetrating oil stain.'
-    ]
-  },
-  {
     id: 'backyard-patio-cooler',
     title: 'Slatted Patio Drink Cooler Stand',
     category: 'Backyard Projects',
