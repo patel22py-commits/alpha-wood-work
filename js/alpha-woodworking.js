@@ -8,6 +8,39 @@ const ALPHA_PROJECTS_DATA = [
   // 1. BACKYARD PROJECTS
   // ==========================================
   {
+    id: '16000-woodworking-plans',
+    title: '16,000+ Woodworking Plans (Master DIY Collection)',
+    category: 'Backyard Projects',
+    categorySlug: '16000-woodworking-plans.html',
+    difficulty: 'All Skill Levels (Beginner to Advanced)',
+    time: 'Flexible Weekend Projects',
+    budget: 'Plans & Blueprints Collection',
+    dimensions: '16,000+ Dimensioned Plans Library',
+    image: 'images/16000-woodworking-plans.jpg',
+    pinImage: 'images/16000-woodworking-plans.jpg',
+    excerpt: 'Stop searching for woodworking ideas. Explore an extensive collection advertised as 16,000+ woodworking plans with ideas for furniture, backyard builds, and workshop projects.',
+    keywords: '16000 woodworking plans, woodworking plans collection, DIY furniture plans, backyard woodworking projects, workshop plans',
+    materials: [
+      'Dimensional lumber (2x4, 2x6, 1x4, 1x6) and sheet goods',
+      'Solid hardwoods (Oak, Maple, Walnut, Cherry) for furniture',
+      'Exterior weather-resistant cedar, redwood, and cypress',
+      'Comprehensive cut lists and hardware schedules included per plan'
+    ],
+    tools: [
+      'Basic hand tools: tape measure, speed square, level',
+      'Essential cutting tools: circular saw, miter saw, or table saw',
+      'Joinery: cordless drill/driver, pocket hole jig, clamps',
+      'Finishing: random orbital sander and finishing supplies'
+    ],
+    steps: [
+      'Explore Collection: Browse 16,000+ categorized plans across furniture, outdoor, and shop categories.',
+      'Select Your Project: Choose a build tailored precisely to your skill level, available tools, and budget.',
+      'Review Cut List: Follow the dimensioned schematics and lumber shopping checklist before purchasing materials.',
+      'Cut & Join: Follow step-by-step 3D exploded diagrams and joinery instructions.',
+      'Sand & Finish: Apply your choice of natural oil, protective spar urethane, or custom stain.'
+    ]
+  },
+  {
     id: 'convertible-porch-swing-daybed',
     title: 'DIY Convertible Porch Swing Daybed (2-in-1 Outdoor Swing)',
     category: 'Backyard Projects',
