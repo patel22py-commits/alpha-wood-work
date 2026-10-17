@@ -202,35 +202,6 @@ const ALPHA_PROJECTS_DATA = [
       'Safety Inspection & Test: Verify latch engagement and test under gradual load.'
     ]
   },
-  {
-    id: 'backyard-adirondack-chair',
-    title: 'Classic Outdoor Adirondack Lawn Chair',
-    category: 'Backyard Projects',
-    categorySlug: 'backyard-projects.html',
-    difficulty: 'Intermediate',
-    time: '6â€“8 Hours',
-    budget: '$55 â€“ $85',
-    dimensions: '32" W Ã— 36" D Ã— 38" H',
-    image: 'https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?auto=format&fit=crop&w=1000&q=80',
-    pinImage: 'https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?auto=format&fit=crop&w=1000&h=1500&q=80',
-    excerpt: 'The iconic American lawn chair with curved ergonomic seat slats, fan-back geometry, and wide arms for cold drink glasses.',
-    keywords: 'adirondack chair plans, outdoor lounge chair, lawn seating diy, cedar adirondack build',
-    materials: [
-      '5 boards â€“ 1x6 Ã— 8 ft Cedar or Douglas fir',
-      '2 boards â€“ 2x4 Ã— 8 ft Frame stock',
-      '1 box â€“ 1-3/4" Stainless steel exterior screws',
-      'Waterproof wood glue'
-    ],
-    tools: ['Jigsaw', 'Miter saw', 'Random orbital sander (80 to 220 grit)', 'Clamps'],
-    steps: [
-      'Trace and cut curved side stringers: Cut two curved seat side rails from 2x4 stock with a jigsaw.',
-      'Cut fan-back slats: Taper five 1x6 back slats from 3.5" top width down to 2.25" base.',
-      'Fasten seat slats: Screw seven 1x4 curved seat slats with 1/4" drainage spacing.',
-      'Assemble rear backrest support: Fasten back slats to upper and lower curved cross rails.',
-      'Fit wide armrests: Cut paddle-shaped 1x6 armrests and level them onto front 2x4 legs.',
-      'Finish: Sand all curved edges with 180 grit and apply 3 coats of marine spar urethane.'
-    ]
-  },
 
   // ==========================================
   // 2. DIY FURNITURE
