@@ -203,34 +203,6 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
-    id: 'backyard-patio-cooler',
-    title: 'Slatted Patio Drink Cooler Stand',
-    category: 'Backyard Projects',
-    categorySlug: 'backyard-projects.html',
-    difficulty: 'Intermediate',
-    time: '4â€“5 Hours',
-    budget: '$50 â€“ $80',
-    dimensions: '36" W Ã— 22" D Ã— 34" H',
-    image: 'https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1000&q=80',
-    pinImage: 'https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1000&h=1500&q=80',
-    excerpt: 'Entertain in style with this handsome timber cooler cabinet designed to house a standard 48-quart ice chest with brass drain spout and bottle opener.',
-    keywords: 'patio cooler stand, wooden ice chest, backyard bbq cart, outdoor bar cart build',
-    materials: [
-      '4 boards â€“ 2x4 Ã— 8 ft Pressure-treated or Cedar lumber',
-      '5 boards â€“ 1x4 Ã— 8 ft Cedar slats',
-      '1 set â€“ Brass cooler drain tube and spigot kit',
-      '1 pair â€“ Heavy outdoor chest hinges & magnetic catch'
-    ],
-    tools: ['Miter saw', 'Pocket hole jig', 'Drill & 1" spade bit', 'Clamps'],
-    steps: [
-      'Build structural leg frame: Assemble 2x4 legs and cross rails using pocket screws.',
-      'Install slat cladding: Wrap exterior with 1x4 cedar slats spaced 1/8" apart with galvanized brads.',
-      'Mount cooler chest: Insert 48-qt ice chest into upper bay and drill drain hole through base.',
-      'Build hinged lid: Frame 1x4 cedar lid matching chest lid with heavy galvanized hinges.',
-      'Install brass hardware: Attach drain valve, rustic iron handles, and vintage wall-mounted bottle opener.'
-    ]
-  },
-  {
     id: 'backyard-firewood-shed',
     title: 'Covered Cedar Firewood Storage Rack',
     category: 'Backyard Projects',
