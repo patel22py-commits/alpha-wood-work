@@ -9,7 +9,7 @@ A modern, responsive woodworking plans and projects showcase platform built for 
 The navigation and platform is organized around 4 primary project collections:
 
 1. **Backyard Projects** ([`backyard-projects.html`](file:///c:/Users/LENOVO/Documents/New%20folder/backyard-projects.html)):
-   - Convertible porch swing daybeds, 2-in-1 convertible picnic tables, covered firewood sheds, classic Adirondack chairs, and fold-down Murphy workbenches.
+   - Convertible porch swing daybeds, 2-in-1 convertible picnic tables, classic Adirondack chairs, and fold-down Murphy workbenches.
 2. **Beginner Projects** ([`beginner-projects.html`](file:///c:/Users/LENOVO/Documents/New%20folder/beginner-projects.html)):
    - Handcrafted wooden birdhouses, solid hardwood kitchen cutting boards, vintage storage crates with handles, entryway coat & hat racks, carpenter tool tote boxes, and minimalist phone docks.
 3. **Space-Saving Projects** ([`space-saving-projects.html`](file:///c:/Users/LENOVO/Documents/New%20folder/space-saving-projects.html)):

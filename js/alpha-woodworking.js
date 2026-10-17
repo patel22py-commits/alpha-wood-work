@@ -203,34 +203,6 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
-    id: 'backyard-firewood-shed',
-    title: 'Covered Cedar Firewood Storage Rack',
-    category: 'Backyard Projects',
-    categorySlug: 'backyard-projects.html',
-    difficulty: 'Intermediate',
-    time: '5â€“6 Hours',
-    budget: '$75 â€“ $120',
-    dimensions: '60" W Ã— 24" D Ã— 48" H',
-    image: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&q=80',
-    pinImage: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&h=1500&q=80',
-    excerpt: 'Keep split cordwood seasoned and bone-dry with this slatted ventilation rack featuring an angled corrugated or cedar roof shed.',
-    keywords: 'firewood rack, outdoor wood storage, log holder diy, cedar firewood shed',
-    materials: [
-      '6 boards â€“ 2x4 Ã— 8 ft Pressure-treated frame lumber',
-      '4 boards â€“ 1x4 Ã— 8 ft Cedar air slats',
-      '1 sheet â€“ Corrugated polycarbonate or metal roof panel',
-      '1 box â€“ 3" Exterior framing screws'
-    ],
-    tools: ['Circular saw', 'Speed square', 'Drill & driver', 'Level'],
-    steps: [
-      'Construct elevated floor base: Build a 2x4 rectangular frame with bottom slats to keep logs 6" above damp soil.',
-      'Erect upright posts: Fasten front (48") and rear (42") 2x4 uprights to create a rain-shedding roof slope.',
-      'Attach side ventilation slats: Screw horizontal 1x4 cedar slats spaced 2" apart for crosswind airflow.',
-      'Install angled roof rafters: Fasten 2x4 roof purlins with a 15Â° slope.',
-      'Secure corrugated roof: Screw weatherproof roofing panels with rubber-gasketed washer screws.'
-    ]
-  },
-  {
     id: 'backyard-adirondack-chair',
     title: 'Classic Outdoor Adirondack Lawn Chair',
     category: 'Backyard Projects',
