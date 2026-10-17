@@ -203,6 +203,23 @@ p {
   color: var(--wood-primary);
 }
 
+.site-logo-img {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16);
+  border: 2px solid var(--wood-soft);
+  display: block;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.site-logo:hover .site-logo-img {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(158, 82, 34, 0.3);
+}
+
 .logo-icon {
   width: 2.25rem;
   height: 2.25rem;
@@ -2518,9 +2535,10 @@ textarea.form-control {
     gap: 0.5rem;
   }
 
-  .logo-icon {
-    width: 2rem;
-    height: 2rem;
+  .logo-icon,
+  .site-logo-img {
+    width: 2.25rem;
+    height: 2.25rem;
   }
 
   .nav-wrap {
@@ -2596,9 +2614,10 @@ textarea.form-control {
     gap: 0.45rem;
   }
 
-  .logo-icon {
-    width: 1.85rem;
-    height: 1.85rem;
+  .logo-icon,
+  .site-logo-img {
+    width: 2.1rem;
+    height: 2.1rem;
   }
 
   .btn-search-trigger span,
@@ -2702,9 +2721,10 @@ textarea.form-control {
     gap: 0.38rem;
   }
 
-  .logo-icon {
-    width: 1.75rem;
-    height: 1.75rem;
+  .logo-icon,
+  .site-logo-img {
+    width: 1.95rem;
+    height: 1.95rem;
   }
 
   .btn-search-trigger {
@@ -2762,9 +2782,10 @@ textarea.form-control {
     gap: 0.35rem;
   }
 
-  .logo-icon {
-    width: 1.65rem;
-    height: 1.65rem;
+  .logo-icon,
+  .site-logo-img {
+    width: 1.8rem;
+    height: 1.8rem;
   }
 
   .logo-icon svg {
@@ -2897,9 +2918,10 @@ textarea.form-control {
     gap: 0.25rem;
   }
 
-  .logo-icon {
-    width: 1.45rem;
-    height: 1.45rem;
+  .logo-icon,
+  .site-logo-img {
+    width: 1.6rem;
+    height: 1.6rem;
   }
 
   .logo-icon svg {
