@@ -215,6 +215,57 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'wooden-treasure-chest',
+    title: 'DIY Wooden Treasure Chest',
+    category: 'Backyard Projects',
+    categorySlug: 'diy-wooden-treasure-chest.html',
+    difficulty: 'Intermediate',
+    time: '6–10 Hours',
+    budget: '$50 – $120',
+    dimensions: '32" L × 18" W × 18" H (Open: 28" H)',
+    image: 'images/diy-wooden-treasure-chest.jpg',
+    pinImage: 'images/diy-wooden-treasure-chest.jpg',
+    excerpt: 'Rustic wooden storage chest with curved lid, decorative metal straps, side ring handles, antique latch, and spacious interior for blankets or keepsakes.',
+    keywords: 'treasure chest plans, diy wooden trunk, pirate chest woodworking, rustic storage box, blanket chest, curved lid box',
+    materials: [
+      '1x6 Lumber for panels (Cedar, Pine, or Redwood)',
+      '1x4 Lumber for lid slats and rails',
+      '1x2 Lumber for trims, cleats, and supports',
+      'Heavy-duty hinges (2 pcs)',
+      'Wood screws 3" & 2" (outdoor rated)',
+      'Decorative latch with lock option',
+      'Metal ring handles (2 pcs)',
+      'Decorative metal straps (5–6 pcs)',
+      'Decorative bolts or wood screws',
+      'Exterior wood glue',
+      'Wood stain or paint & clear sealer',
+      'Sandpaper (120, 180, and 220 grit)'
+    ],
+    tools: [
+      'Tape measure, pencil & combination square',
+      'Circular saw or miter saw',
+      'Jigsaw or bandsaw for curved R6" lid profile',
+      'Drill and driver with countersink bits',
+      'Bar clamps & strap clamps',
+      'Random orbital sander',
+      'Compass or string trammel for arch layout',
+      'Safety glasses and hearing protection'
+    ],
+    steps: [
+      'Plan Chest Dimensions: Sketch 32" L × 18" W × 18" H box with 6" arched lid and verify interior clearances.',
+      'Cut Bottom and Side Panels: Accurately cut 1x6 panels for front, back, bottom, and side walls.',
+      'Assemble Main Box: Join front, back, and side panels to bottom with glue and countersunk screws, checking diagonal squareness.',
+      'Add Corner Supports: Install interior 1x2 corner cleats and exterior decorative vertical corner trim.',
+      'Design Curved Lid: Draft R6" (150 mm) arch template on 1x6 stock and test profile with scrap wood before cutting ribs.',
+      'Assemble the Lid: Secure 1x4 slats across curved end ribs, ensuring uniform arch without twisting.',
+      'Install Hinges: Mount heavy-duty hinges and internal safety lid support mechanism to prevent accidental slamming.',
+      'Add Decorative Metal Straps: Mount antique metal straps, corner accents, and through-bolted metal ring side handles.',
+      'Install Front Latch: Center and screw vintage latch and optional padlock hasp.',
+      'Sand and Finish: Sand all surfaces to 220 grit, apply rich rustic stain, and protect with 2–3 coats of clear finish.',
+      'Final Inspection: Cycle lid, inspect safety supports, verify load rating on handles, and allow full 72-hour cure.'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
