@@ -170,6 +170,51 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'adirondack-chair-with-side-table',
+    title: 'DIY Adirondack Chair with Built-In Side Table',
+    category: 'Backyard Projects',
+    categorySlug: 'diy-adirondack-chair-with-built-in-side-table.html',
+    difficulty: 'Intermediate',
+    time: '6–8 Hours',
+    budget: '$65 – $110',
+    dimensions: '30" W × 36" D × 40" H (Table: 12" × 10")',
+    image: 'images/diy-adirondack-chair-with-built-in-side-table.jpg',
+    pinImage: 'images/diy-adirondack-chair-with-built-in-side-table.jpg',
+    excerpt: 'Comfortable wooden outdoor lounge chair with an integrated 12" × 10" drink table, wide armrests, ergonomic slatted backrest, and optional cup holder.',
+    keywords: 'adirondack chair with side table, outdoor lounge chair, diy patio chair, lawn chair with cup holder, wooden adirondack plans',
+    materials: [
+      'Outdoor-suitable lumber for the frame and legs (1" × 6" / 1" × 4" boards)',
+      'Boards for the seat and backrest slats',
+      'Lumber for the armrests and side table (12" × 10" surface)',
+      'Exterior-rated screws and bolts (outdoor grade)',
+      'Suitable waterproof wood glue for compatible joints',
+      'Optional structural brackets for extra rigidity',
+      'Sandpaper (80, 120, and 180–220 grit)',
+      'Exterior-rated stain, paint, or weather-resistant finish',
+      'Optional cup holder designed for outdoor use'
+    ],
+    tools: [
+      'Tape measure, pencil & combination square',
+      'Circular saw or miter saw',
+      'Drill and driver with countersink bits',
+      'Clamps & random orbital sander',
+      'Torpedo level & safety glasses',
+      'Jigsaw for curved backrest slats and armrests'
+    ],
+    steps: [
+      'Create Detailed Design: Draw chair front, side, and back profiles with seat angle, armrest height, and 12" × 10" side table dimensions.',
+      'Prepare the Lumber: Measure, mark, and cut frame pieces, seat slats, fan-back slats, armrests, and side table components.',
+      'Build the Base Frame: Assemble legs and lower support runners with outdoor joinery and check that base sits square and level.',
+      'Install the Seat Slats: Fasten curved seat slats with consistent drainage spacing and soften edges to eliminate splinters.',
+      'Assemble the Backrest: Fit backrest supports and mount tapered fan-back slats at comfortable ergonomic angle.',
+      'Attach the Armrests: Install broad armrests at uniform height on both sides using structural screws.',
+      'Build Integrated Side Table: Construct 12" × 10" tabletop and securely mount to side frame with rigid under-cleat support.',
+      'Add Optional Cup Holder: Cut recessed opening or mount outdoor drink holder preserving tabletop integrity.',
+      'Sand & Apply Finish: Sand all surfaces smooth to 180 grit and apply 3 coats of exterior-rated weather-resistant finish.',
+      'Final Safety Inspection: Verify structural connections, test stability on flat surface, and confirm weight capacity up to 300+ lbs.'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
