@@ -312,6 +312,53 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'wooden-christmas-reindeer',
+    title: 'DIY Wooden Christmas Reindeer',
+    category: 'Beginner Projects',
+    categorySlug: 'diy-wooden-christmas-reindeer.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '4–8 Hours',
+    budget: '$25 – $60',
+    dimensions: '36" H × 28" L × 14" W',
+    image: 'images/diy-wooden-christmas-reindeer.jpg',
+    pinImage: 'images/diy-wooden-christmas-reindeer.jpg',
+    excerpt: 'Charming rustic wooden reindeer lawn decoration with branching antlers, red dowel nose, festive bell collar, and angled 2x4 standing legs.',
+    keywords: 'wooden christmas reindeer, holiday yard decor, rustic reindeer lawn ornament, diy rudolph decoration, beginner holiday woodworking',
+    materials: [
+      '1x6 Lumber for body side panels and head (Pine or Cedar)',
+      '2x4 Lumber for legs and hoof blocks',
+      '1x4 Lumber for branching antlers, ears, tail, and neck cleat',
+      '1"–2" Wooden dowel for round nose',
+      'Wooden eyes or craft buttons (2 pcs)',
+      'Bright red paint for the nose',
+      'Wood screws 3" (outdoor rated)',
+      'Exterior wood glue',
+      'Wood stain or paint & clear weather sealer',
+      'Festive ribbon, brass bells, and evergreen sprigs'
+    ],
+    tools: [
+      'Tape measure, pencil & combination square',
+      'Circular saw or miter saw',
+      'Jigsaw for shaped antlers, head, and tail',
+      'Drill and driver with countersink pilot bits',
+      'Bar clamps & random orbital sander',
+      'Torpedo level & safety glasses'
+    ],
+    steps: [
+      'Draw Reindeer Design: Sketch 36" H × 28" L silhouette, checking antler proportions and leg stance angles.',
+      'Cut Body Panels: Trace template onto 1x6 boards and cut 2 matching body side panels simultaneously with a jigsaw.',
+      'Prepare the Legs: Cut 2x4 front legs (14") and rear legs (16"), beveling foot ends to sit flush on the ground.',
+      'Assemble Body and Legs: Fasten legs to body with exterior wood glue and 3" countersunk wood screws.',
+      'Attach Neck and Head: Secure neck support cleat and mount shaped head pieces firmly to the front body frame.',
+      'Make Branching Antlers: Cut 12" × 10" antler shapes from 1x4 stock and anchor into pre-drilled head recesses.',
+      'Add Ears, Tail, and Nose: Mount shaped ears, tail, and attach the 2" red-painted wooden dowel nose.',
+      'Sand the Entire Figure: Smooth all prongs, corners, and flat faces with 120, 180, and 220 grit sandpaper.',
+      'Apply Outdoor Finish: Coat with warm wood stain or paint and seal with 2–3 layers of exterior clear urethane.',
+      'Add Holiday Decor: Tie a festive red bow around the neck with jingle bells and evergreen pine needles.',
+      'Stability Inspection: Verify four-point balance on level floor and anchor with stakes if displaying on outdoor turf.'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
