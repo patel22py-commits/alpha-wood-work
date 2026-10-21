@@ -359,6 +359,52 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'wooden-christmas-star',
+    title: 'DIY Wooden Christmas Star',
+    category: 'Beginner Projects',
+    categorySlug: 'diy-wooden-christmas-star.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '2–4 Hours',
+    budget: '$20 – $50',
+    dimensions: '24" H × 24" W × 6" D',
+    image: 'images/diy-wooden-christmas-star.jpg',
+    pinImage: 'images/diy-wooden-christmas-star.jpg',
+    excerpt: 'Rustic lighted 5-point Christmas star with layered inner star frame, warm LED fairy lights, freestanding base cradle, and holiday ribbon.',
+    keywords: 'wooden christmas star, lighted star plans, rustic star decoration, diy holiday star, beginner christmas woodworking',
+    materials: [
+      '1x4 Lumber for outer star frame and base (Pine or Cedar)',
+      '1x3 Lumber for inner star frame and base cleat',
+      '1x2 Lumber for center spacers and light support cleats',
+      'Wood screws 2.5" – 3" (outdoor rated)',
+      'Exterior wood glue',
+      'Warm white LED string fairy lights',
+      'Wood stain, paint, or clear sealer',
+      'Sandpaper (120, 180, and 220 grit)',
+      'Holiday ribbon, artificial greenery, pinecones, and berries'
+    ],
+    tools: [
+      'Tape measure, pencil & combination square',
+      'Miter saw with stop block for accurate 36° / 72° angles',
+      'Drill and driver with countersink pilot bits',
+      'Band clamps or corner clamps',
+      'Random orbital sander',
+      'Safety glasses and hearing protection'
+    ],
+    steps: [
+      'Draw Star Template: Sketch symmetrical five-point star on cardboard with 36° point and 72° valley angles.',
+      'Cut Outer Star Pieces: Miter cut 10 identical 1x4 pieces (18" long) using a stop block on the miter saw.',
+      'Assemble Outer Frame: Glue and screw outer 10 pieces together from the back side, checking alignment on template.',
+      'Build Inner Star: Cut 10 1x3 pieces (13" long) and assemble nested inner star frame.',
+      'Add Connecting Spacers: Fasten 1x2 center spacers between outer and inner frames, creating a lighting wire channel.',
+      'Build Base Cradle: Construct 12" freestanding beveled base from 1x4 and 1x3 stock and anchor star bottom points.',
+      'Sand Wooden Surface: Smooth all facets, tips, and valley joints with 120, 180, and 220 grit sandpaper.',
+      'Apply Wood Finish: Stain with warm golden oak or paint white, sealing with 2 coats of exterior varnish.',
+      'Install LED Lights: Wrap warm white LED fairy lights around inner perimeter and secure wiring neatly.',
+      'Add Festive Greenery: Attach buffalo plaid bow, faux cedar sprigs, pinecones, and berries to bottom valley.',
+      'Final Illumination Test: Switch on lights, verify freestanding balance, and enjoy evening holiday glow.'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
