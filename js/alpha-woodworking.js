@@ -266,6 +266,52 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'wooden-christmas-tree-shelf',
+    title: 'DIY Wooden Christmas Tree Shelf',
+    category: 'Beginner Projects',
+    categorySlug: 'diy-wooden-christmas-tree-shelf.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '4–6 Hours',
+    budget: '$40 – $80',
+    dimensions: '72" H × 44" W × 16" D',
+    image: 'images/diy-wooden-christmas-tree-shelf.jpg',
+    pinImage: 'images/diy-wooden-christmas-tree-shelf.jpg',
+    excerpt: 'Rustic Christmas tree display shelf with 4 tiered shelves, a decorative top star, 24" cross-base, and fairy lights for holiday decor and miniature villages.',
+    keywords: 'wooden christmas tree shelf, holiday village display, rustic christmas tree, diy tree shelf plans, beginner christmas woodworking',
+    materials: [
+      '1x6 Lumber for angled side panels, star, and base (Cedar/Pine/Redwood)',
+      '1x8 Lumber for horizontal display shelves (40", 30", 22", 14")',
+      '1x4 Lumber for vertical center support and triangular shelf gussets',
+      'Wood screws 3" & 2" (countersunk exterior/interior rated)',
+      'Exterior/interior PVA wood glue',
+      'Wood stain, paint, or clear sealer',
+      'Sandpaper (120, 180, and 220 grit)',
+      'Optional warm-white LED string fairy lights'
+    ],
+    tools: [
+      'Tape measure, pencil & combination square',
+      'Circular saw or miter saw',
+      'Jigsaw for shaped branch steps and top star',
+      'Drill and driver with countersink bits',
+      'Bar clamps & torpedo level',
+      'Random orbital sander',
+      'Safety glasses and hearing protection'
+    ],
+    steps: [
+      'Draw Tree Shape: Sketch 72" H × 44" W tree silhouette with 4 shelf levels and verify vertical clearances for holiday houses.',
+      'Cut Side Panels: Trace cardboard template onto 1x6 stock and cut matching stepped side panels with a jigsaw.',
+      'Prepare Center Support: Mill 60" 1x4 vertical support spine to tie shelves and side panels together.',
+      'Cut Graduated Shelves: Crosscut 1x8 boards to 40", 30", 22", and 14" lengths and dry-fit between uprights.',
+      'Assemble Main Structure: Connect side panels and vertical spine with wood glue and countersunk 3" wood screws.',
+      'Install Shelves & Gussets: Mount tiered shelves with rigid triangular wood supports underneath, verifying level in both directions.',
+      'Build and Attach Base: Assemble 24" wide cross-lap base feet and anchor securely to tree trunk for anti-tip stability.',
+      'Craft Wooden Star: Cut 10" five-point star from scrap 1x6 and fasten to tree crown.',
+      'Sand and Finish: Sand all surfaces to 220 grit and apply stain, white wash, or protective clear coat.',
+      'Add Optional LED Lights: Route warm LED fairy lights along shelf undersides and behind vertical spine.',
+      'Decorate & Display: Style with miniature porcelain villages, snowmen, ornaments, and gifts.'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
