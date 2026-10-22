@@ -405,6 +405,47 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'pet-woodworking-projects',
+    title: '10 DIY Pet Woodworking Projects',
+    category: 'Beginner Projects',
+    categorySlug: '10-diy-pet-woodworking-projects.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '2–12 Hours (Varies by Project)',
+    budget: '$15 – $180',
+    dimensions: '10 Projects (Dog House, Cat Tree, Pet Bed & More)',
+    image: 'images/10-diy-pet-woodworking-projects.jpg',
+    pinImage: 'images/10-diy-pet-woodworking-projects.jpg',
+    excerpt: 'Comprehensive collection of 10 DIY pet woodworking projects including dog houses, elevated feeders, cat trees, rabbit hutches, chicken coops, and cozy pet beds with dimensioned plans.',
+    keywords: 'pet woodworking projects, diy dog house, wooden cat tree, diy pet bed, elevated pet feeder, rabbit hutch, chicken coop, pet stairs',
+    materials: [
+      'Dimensional lumber: 2x4, 2x2, 1x4, 1x6 pine and cedar boards',
+      'Plywood: 1/2" and 3/4" exterior ACX or Baltic birch sheet goods',
+      'Fasteners: 1-1/4", 2", and 2-1/2" exterior-rated deck/pocket screws',
+      'Hardware: Heavy-duty hinges, barrel bolt latches, 1/2" galvanized wire mesh',
+      'Pet-Safe Finishes: Pure mineral oil, beeswax, or non-toxic zero-VOC waterborne sealer',
+      'Accessories: Stainless steel pet bowls, sisal rope, washable pet cushions'
+    ],
+    tools: [
+      'Miter saw or circular saw with fine-finish crosscut blade',
+      'Cordless drill/driver set with countersink and pilot bits',
+      'Pocket hole jig (Kreg or equivalent)',
+      'Jigsaw for curved bowl cutouts and door arches',
+      'Random orbital sander (80, 120, and 220 grit)',
+      'Heavy-duty staple gun (for wire mesh and sisal wrap)',
+      'Tape measure, speed square, bar clamps, and safety goggles'
+    ],
+    steps: [
+      'Choose the Right Build: Select from the 10 featured pet projects matching your pet species, size, and room/yard layout.',
+      'Check Pet Measurements: Size entryways, bowl heights, and interior sleeping cavities before cutting any lumber.',
+      'Break Down Lumber & Plywood: Follow dimensioned cut lists with square miter and rip cuts.',
+      'Rout & Ease Edges: Pre-sand all pieces and round over sharp corners with a 1/4" roundover bit to prevent pet splinter injuries.',
+      'Assemble Sub-Frames: Join base frames using exterior wood glue and pocket hole or countersunk screw joinery.',
+      'Add Pet Enclosure Features: Install wire mesh, carpet treads, sisal rope scratch posts, or stainless bowl cutouts.',
+      'Apply Pet-Safe Finish: Coat with certified food-safe mineral oil or zero-VOC non-toxic water-based clear finish.',
+      'Final Pet Introduction: Inspect for proud screw heads or sharp splinters, add washable bedding, and introduce your furry friend!'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
