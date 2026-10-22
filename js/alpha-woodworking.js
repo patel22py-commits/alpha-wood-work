@@ -527,6 +527,45 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'woodworking-storage-projects',
+    title: '10 DIY Woodworking Storage Projects',
+    category: 'Beginner Projects',
+    categorySlug: '10-diy-woodworking-storage-projects.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '2–10 Hours per Project',
+    budget: '$20 – $140',
+    dimensions: '10 Storage Builds (Shoe Racks, Benches, Chests & Cabinets)',
+    image: 'images/10-diy-woodworking-storage-projects.jpg',
+    pinImage: 'images/10-diy-woodworking-storage-projects.jpg',
+    excerpt: 'Organize your home with dimensioned blueprints for 10 smart storage projects: slatted shoe racks, entryway storage benches, hope chests, hidden bracket floating shelves, closet towers, blanket boxes, pantry shelves, under-bed drawers, and laundry cabinets.',
+    keywords: 'woodworking storage projects, diy shoe rack, storage bench plans, floating shelves, closet organizer diy, wooden storage chest, blanket box, pantry shelves, under bed storage, laundry cabinet',
+    materials: [
+      'Solid lumber: 1x6, 1x4, and 2x4 select pine, poplar, or Douglas fir',
+      'Plywood: 1/2" and 3/4" Baltic birch or cabinet-grade pre-finished plywood',
+      'Specialty hardware: Soft-close lid torsion hinges, European concealed cup hinges, full-extension drawer slides',
+      'Mounting fasteners: 3" GRK structural cabinet screws, French cleat brackets, 1-1/4" and 2-1/2" pocket screws',
+      'Accessories: Heavy-duty 360° swivel casters, black wrought-iron coat hooks, flush drawer pulls',
+      'Protective finishes: Penetrating wood stain, non-toxic wood glue, and satin waterborne clear coat'
+    ],
+    tools: [
+      'Circular saw with rip guide or table saw, and compound miter saw',
+      'Pocket hole jig (Kreg or equivalent) with clamp',
+      'Cordless drill/driver set with pilot countersink bits',
+      'Random orbital sander (80, 120, and 220 grit)',
+      'Parallel bar clamps, strap clamps, and precision combination square',
+      '2-foot spirit level, magnetic stud finder, and safety glasses'
+    ],
+    steps: [
+      'Select Your Storage Build: Pick from the 10 featured projects tailored to your entryway, bedroom, closet, or pantry needs.',
+      'Prepare Material Cut List: Review dimensional schedules and cut 2x4 framing, 1x6 slats, and plywood panels with square 90° joints.',
+      'Pre-Sand Components: Sand all individual panels and shelf faces up to 220 grit before assembly to eliminate difficult inside corner sanding.',
+      'Assemble Sub-Frames: Join perimeter frames and dividers using wood glue and pocket-hole or countersunk screw joinery.',
+      'Install Moving Hardware: Mount piano or soft-close hinges on chests, attach ball-bearing casters to under-bed boxes, or hang cabinet doors.',
+      'Apply Finish: Stain in your preferred tone (warm walnut or golden oak) and protect with two coats of durable satin polyurethane.',
+      'Secure & Anchor: Mount floating shelves or tall pantry/closet towers securely into solid wall framing studs to eliminate tipping hazards!'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
