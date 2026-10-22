@@ -487,6 +487,46 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'outdoor-woodworking-projects',
+    title: '10 DIY Outdoor Woodworking Projects',
+    category: 'Beginner Projects',
+    categorySlug: '10-diy-outdoor-woodworking-projects.html',
+    difficulty: 'Beginner – Advanced',
+    time: '4–24 Hours per Build',
+    budget: '$60 – $850',
+    dimensions: '10 Outdoor Structures (Sheds, Pergolas, Beds & Bars)',
+    image: 'images/10-diy-outdoor-woodworking-projects.jpg',
+    pinImage: 'images/10-diy-outdoor-woodworking-projects.jpg',
+    excerpt: 'Comprehensive blueprints for 10 backyard and garden structures: 12x8 storage sheds, garden sheds, pergolas, garden arbors, raised garden beds, potting sheds, firewood racks, picnic pavilions, outdoor bars, and garden tool sheds.',
+    keywords: 'outdoor woodworking projects, backyard structures, diy storage shed, pergola plans, raised garden beds, garden arbor, potting shed, firewood rack, picnic shelter, outdoor bar, tool shed',
+    materials: [
+      'Framing lumber: 2x4, 2x6, 4x4, and 6x6 pressure-treated and cedar timbers',
+      'Sheet goods: 1/2" and 3/4" exterior CDX / ACX plywood and T1-11 siding panels',
+      'Roofing materials: 3-tab architectural shingles, corrugated polycarbonate, and drip edge',
+      'Structural hardware: Simpson Strong-Tie post anchors, hurricane ties, 1/2" carriage bolts',
+      'Fasteners: Hot-dipped galvanized and ceramic-coated exterior screws and heavy strap hinges',
+      'Protective finishes: Copper naphthenate end-cut preservative and UV-blocking exterior stain'
+    ],
+    tools: [
+      'Circular saw with framing blade and 12" sliding compound miter saw',
+      'Cordless impact driver, drill set, and socket ratchet set for lag screws',
+      '25-ft tape measure, combination square, torpedo level, and 4-ft spirit level',
+      'Framing hammer, speed square, chalk line, and heavy-duty bar clamps',
+      'Post-hole digger, shovel, and wheelbarrow for foundation concrete work',
+      'Safety glasses, heavy work gloves, hearing protection, and dust mask'
+    ],
+    steps: [
+      'Check Zoning & Permits: Verify municipal property setbacks, utility line easements, and building permits before breaking ground.',
+      'Prepare Level Site: Excavate grass, lay weed barrier, and construct a compacted gravel skid pad or concrete pier footings.',
+      'Frame Floor Platform: Build pressure-treated 2x6 joists spaced at 16" on center, square diagonals, and fasten 3/4" exterior plywood.',
+      'Erect Wall Framing: Assemble 2x4 wall studs, corner posts, and double top plates flat on the deck before tipping upright.',
+      'Install Roof Rafters: Cut matching gable or lean-to rafters with birdsmouth notches, install ridge board, and secure with hurricane ties.',
+      'Sheathe & Weatherproof: Apply exterior wall siding, install roof sheathing, lay drip edge, felt underlayment, and shingles.',
+      'Hang Doors & Windows: Mount heavy-duty strap hinges, outward-swinging doors, window units, and lockable barrel bolt latches.',
+      'Seal & Personalize: Treat all cut ends with wood preservative, apply exterior stain, and add internal shelving or lighting!'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
