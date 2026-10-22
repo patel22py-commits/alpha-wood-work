@@ -566,6 +566,45 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'wooden-toy-projects',
+    title: '10 DIY Wooden Toy Projects',
+    category: 'Beginner Projects',
+    categorySlug: '10-diy-wooden-toy-projects.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '1–8 Hours per Toy',
+    budget: '$5 – $45',
+    dimensions: '10 Wooden Toys & Keepsakes (Cars, Trucks, Dollhouse & Rocking Horse)',
+    image: 'images/10-diy-wooden-toy-projects.jpg',
+    pinImage: 'images/10-diy-wooden-toy-projects.jpg',
+    excerpt: 'Create handcrafted gifts for kids with 10 creative wooden toy plans: vintage pickup cars, dump trucks with tilting beds, curved rocking horses, dollhouses, safety toy chests, animal puzzles, building blocks, toy trains, and keepsake boxes.',
+    keywords: 'wooden toy projects, diy wooden toys, handmade wooden gifts, wooden toy car, wooden dump truck, rocking horse plans, dollhouse woodworking, toy chest diy, wooden animal puzzles, building blocks',
+    materials: [
+      'Hardwood lumber: Hard maple, beech, poplar, and basswood 1x2, 1x3, 1x4, and 1x6 boards',
+      'Plywood: 1/4", 1/2", and 3/4" Baltic birch plywood sheets for dollhouses and puzzles',
+      'Hardware & fittings: Pre-turned wooden wheels, hardwood axle dowels, magnets, piano hinges',
+      'Safety hardware: Soft-close lid stays for toy boxes and counterbored magnetic train couplers',
+      'Certified finishes: Food-grade mineral oil, pure beeswax polish, ASTM-D4236 non-toxic milk paints',
+      'Abrasives: Silicon carbide sandpaper assortment (120, 180, 220, and 320 grit)'
+    ],
+    tools: [
+      'Scroll saw or bandsaw for curved animal puzzle and rocking horse cuts',
+      'Compound miter saw with stop block for cutting identical building blocks',
+      'Drill press with Forstner and brad-point bits for accurate wheel axle alignment',
+      'Router table with 1/8" roundover bit for softening all edges and corners',
+      'Random orbital sander and detail hand-sanding blocks',
+      'Safety glasses, dust mask, and hearing protection'
+    ],
+    steps: [
+      'Choose Your Toy Build: Pick from the 10 featured projects matched to your child’s age group and your available tools.',
+      'Prepare Templates & Lumber: Trace full-scale paper patterns onto hard maple or Baltic birch plywood blanks.',
+      'Cut Profiles & Shapes: Cut silhouettes with a scroll saw or bandsaw, maintaining square perpendicular edges.',
+      'Drill Axles & Joinery: Drill free-spinning axle holes and pocket holes before rounding over edges.',
+      'Ease All Corners: Round over every edge with a 1/8" bit and sand meticulously to 220–320 grit to eliminate all splinters.',
+      'Apply Child-Safe Finish: Coat with pure food-grade mineral oil and beeswax buffing or non-toxic zero-VOC toy paints.',
+      'Safety Inspection: Check that wheels spin freely without detaching, confirm choke-tube compliance, and enjoy gifting!'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
