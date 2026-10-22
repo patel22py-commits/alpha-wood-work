@@ -446,6 +446,47 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'farmhouse-wood-decor-projects',
+    title: '10 DIY Farmhouse Wood Decor Projects',
+    category: 'Beginner Projects',
+    categorySlug: '10-diy-farmhouse-wood-decor-projects.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '1–6 Hours per Project',
+    budget: '$10 – $45 per build',
+    dimensions: '10 Builds (Signs, Wall Art, Trays, Lanterns & More)',
+    image: 'images/10-diy-farmhouse-wood-decor-projects.jpg',
+    pinImage: 'images/10-diy-farmhouse-wood-decor-projects.jpg',
+    excerpt: 'Transform simple pine lumber into rustic farmhouse decor: wooden welcome signs, mountain wall art, candle holders, decorative trays, oversized wall clocks, lanterns, centerpiece boxes, blanket ladders, and entryway coat racks.',
+    keywords: 'farmhouse wood decor, rustic wood decor, diy welcome sign, rustic wall art, wooden candle holders, diy decorative tray, rustic wall clock, blanket ladder, centerpiece box, entryway coat rack',
+    materials: [
+      'Dimensional lumber: 1x6, 1x4, 1x3, 1x2 pine boards and 4x4 timber post',
+      'Plywood: 1/4" and 1/2" sanded backing boards for geometric wall art',
+      'Fasteners: 1-1/4" pocket screws, 1-1/2" 18-gauge brad nails, wood glue',
+      'Hardware: Vintage black double-prong coat hooks, D-rings, sawtooth hangers, clock movement',
+      'Finishes: Early American walnut stain, weathered gray stain, white chalk paint, satin polyurethane',
+      'Decor accents: Faux eucalyptus garland, burlap/jute twine ribbon, LED pillar candles'
+    ],
+    tools: [
+      'Miter saw or circular saw with fine-finish blade',
+      'Cordless drill/driver set with countersink bits',
+      'Pocket hole jig (Kreg or equivalent)',
+      'Jigsaw for cutting clock circles and tray handholds',
+      'Random orbital sander (80, 120, and 220 grit)',
+      'Bar clamps, strap clamp, and combination square',
+      'Safety glasses, hearing protection, and dust mask'
+    ],
+    steps: [
+      'Choose Your Build: Select from the 10 featured farmhouse decor plans matching your living room, kitchen, or entryway space.',
+      'Cut Lumber to Dimensions: Follow the exact cut list for your chosen project with clean 90° and 45° miter cuts.',
+      'Sand Pre-Assembly: Sand all individual board faces and soften sharp edges with 180 and 220 grit sandpaper.',
+      'Assemble with Glue & Screws: Join components using wood glue paired with pocket holes, brad nails, or rear cleat battens.',
+      'Add Custom Details: Route rabbets for picture frames, drill clock arbor holes, or stencil custom farmhouse lettering.',
+      'Apply Rustic Finish: Stain with rich walnut/weathered gray or layer distressed white chalk paint over bare wood.',
+      'Mount Hardware & Accents: Attach black wrought-iron hooks, clock hands, jute bows, or hanging D-rings.',
+      'Display with Pride: Hang into solid wall studs or style your tabletop with flickering battery-operated LED candles!'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
