@@ -605,6 +605,46 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'walk-in-chicken-coop',
+    title: 'DIY Walk-In Chicken Coop',
+    category: 'Beginner Projects',
+    categorySlug: 'diy-walk-in-chicken-coop.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '2–3 Weekends',
+    budget: '$280 – $650',
+    dimensions: '10\' L × 8\' W × 8\' H (Enclosed Walk-In Run + Coop)',
+    image: 'images/diy-walk-in-chicken-coop.jpg',
+    pinImage: 'images/diy-walk-in-chicken-coop.jpg',
+    excerpt: 'Spacious backyard walk-in chicken coop with predator-resistant 1/2" hardware cloth wire run, external egg-access nesting box, roosting ladder, and full-height access door for 6–12 hens.',
+    keywords: 'walk in chicken coop, diy chicken coop, poultry coop plans, chicken nesting boxes, predator proof coop, backyard hen house, roosting bar, hardware cloth run',
+    materials: [
+      'Framing lumber: 2x4 and 2x6 pressure-treated base runners and kiln-dried SPF framing studs',
+      'Support posts: 4x4 pressure-treated corner foundation posts',
+      'Exterior sheathing: 1/2" exterior-grade plywood or T1-11 siding boards',
+      'Predator shielding: 1/2" 19-gauge galvanized hardware cloth wire mesh (buried 12" predator apron)',
+      'Roofing: Corrugated polycarbonate or galvanized metal roof panels with ridge cap and foam closures',
+      'Hardware: Heavy-duty galvanized T-hinges, double-locking barrel slide latches, 3" exterior star-drive decking screws'
+    ],
+    tools: [
+      'Compound miter saw or circular saw with framing blade',
+      'Cordless drill and impact driver with magnetic bit holder',
+      'Heavy-duty pneumatic crown stapler or galvanized 1" screws with fender washers',
+      'Tin snips or angle grinder for trimming 1/2" hardware cloth',
+      '4-Foot carpenter level and speed square',
+      'Trenching shovel, post hole digger, and safety glasses'
+    ],
+    steps: [
+      'Square the Foundation: Level four 4x4 ground runners on gravel or concrete pier blocks, squaring diagonally.',
+      'Frame Wall Panels: Assemble 2x4 side and end wall stud frames at 16" on-center spacing and secure to base runners.',
+      'Erect Gable Roof Trusses: Build 4/12 pitch 2x4 roof rafters with collar ties and birdsmouth cuts, spaced every 24".',
+      'Install Corrugated Metal Roof: Secure polycarbonate or metal panels with neoprene washer roofing screws and gable overhangs.',
+      'Wrap Predator-Proof Wire: Fasten 1/2" galvanized hardware cloth across all run walls and bury a 12" skirt underground.',
+      'Construct Roosting Coop & Nesting Boxes: Build elevated interior sleeping quarters with exterior hinged-lid egg box and ramp.',
+      'Hang Walk-In Access Door: Assemble braced 2x4 entry door with heavy-duty T-hinges and twin raccoon-proof locking latches.',
+      'Ventilation & Interior Setup: Install upper soffit vents, fill bedding with pine shavings, hang feeders, and introduce your flock!'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
