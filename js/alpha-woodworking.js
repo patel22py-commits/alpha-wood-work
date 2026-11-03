@@ -769,7 +769,47 @@ const ALPHA_PROJECTS_DATA = [
       'Apply Protective Finish: Stain in desired tone (walnut, oak, or natural) and seal with 2 coats of satin clear finish.',
       'Install LED Lighting & Decorate: Adhere warm LED strip underneath shelf steps and curate plants, books, and decor.'
     ]
+  },
+  {
+    id: 'giant-christmas-rocking-horse',
+    title: 'DIY Giant Christmas Rocking Horse',
+    category: 'DIY Furniture',
+    categorySlug: 'diy-giant-christmas-rocking-horse.html',
+    difficulty: 'Intermediate',
+    time: '8–12 Hours',
+    budget: '$85 – $190',
+    dimensions: '72" H × 96" L × 32" W (Standard) | 48" Small | 96" Giant',
+    image: 'images/diy-giant-christmas-rocking-horse.jpg',
+    pinImage: 'images/diy-giant-christmas-rocking-horse.jpg',
+    excerpt: 'Stunning oversized wooden Christmas rocking horse featuring curved rocking runners, decorative snowflake saddle, red bow, golden bells, and evergreen greenery.',
+    keywords: 'giant christmas rocking horse, wooden rocking horse diy, oversized christmas decor, holiday woodworking, rocking horse plans, wooden christmas horse, festive wooden decor',
+    materials: [
+      'Solid structural lumber: 2x4 and 2x6 kiln-dried SPF framing studs for leg assemblies',
+      'Plywood panels: 3/4" Baltic birch or exterior-grade plywood for horse torso silhouette',
+      'Solid lumber for runners: Clear laminated pine or hardwood 2x8 boards for 96" curved runners',
+      'Fasteners & hardware: 3" exterior star-drive decking screws, pocket screws, 3/8" carriage bolts',
+      'Decorative accents: Pre-cut wooden snowflakes, artificial pine branches, wired red velvet bow, brass bells',
+      'Paints & finishes: Exterior ruby red enamel, emerald green trim paint, satin polyurethane topcoat'
+    ],
+    tools: [
+      'Measuring tape, carpenter pencil, and 12" combination square',
+      'Jigsaw or bandsaw for smooth curved runner and body cuts',
+      'Circular saw or compound miter saw for straight framing cross cuts',
+      'Cordless drill, impact driver, and Forstner drill bit set',
+      'Random orbital sander with 80, 120, 180, and 220 grit discs',
+      'Bar clamps, pipe clamps, and speed clamps'
+    ],
+    steps: [
+      'Trace & Cut Silhouette: Sketch full-scale templates onto 3/4" plywood panels and cut out torso and head contours.',
+      'Assemble 4-Leg Frame: Cut splayed 2x6 legs with 7° compound angles and connect with horizontal cross stretchers.',
+      'Mount Torso to Framework: Secure the layered wooden horse torso over the central leg chassis using carriage bolts.',
+      'Fabricate Curved Runners: Cut matching 96" curved rocker profiles, round over outer edges, and attach beneath feet.',
+      'Carve Mane, Tail & Saddle: Layer sculpted wooden locks, contoured tail section, and beveled holiday saddle blank.',
+      'Sand & Paint Details: Sand to 220 grit, paint runners candy-apple red, and stencil white snowflake patterns.',
+      'Holiday Embellishment: Drape evergreen garland, tie the red velvet bow with brass bells, and display with pride!'
+    ]
   }
+
 ];
 
 // Document Ready Initialization
