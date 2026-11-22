@@ -684,6 +684,46 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'modern-chicken-coop-diy',
+    title: 'Modern Chicken Coop DIY (Walk-In Coop with Nesting Boxes & Run)',
+    category: 'Beginner Projects',
+    categorySlug: 'modern-chicken-coop-diy.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '2–3 Weekends',
+    budget: '$350 – $800',
+    dimensions: '144" W × 72" D × 96" H (12\' W × 6\' D × 8\' H)',
+    image: 'images/modern-chicken-coop-diy.jpg',
+    pinImage: 'images/modern-chicken-coop-diy.jpg',
+    excerpt: 'Modern walk-in chicken coop with built-in nesting boxes, comfortable roosting perches, and an attached predator-resistant run for 6–10 hens.',
+    keywords: 'modern chicken coop diy, walk in chicken coop plans, chicken coop nesting boxes, chicken run blueprints, poultry house, backyard chickens, egg nesting box',
+    materials: [
+      'Base Frame: 4 pcs – 2" × 4" × 72" (Pressure-Treated)',
+      'Wall Studs: 14 pcs – 2" × 4" × 72" (SPF / Cedar)',
+      'Floor Panel: 1 pc – ¾" Plywood (72" × 72")',
+      'Roof Rafters: 7 pcs – 2" × 4" × 72"',
+      'Run Frame: 10 pcs – 2" × 4" × 96"',
+      'Nesting Box Parts: 1 set – ¾" Exterior Plywood',
+      '1/2" Galvanized hardware cloth wire mesh',
+      'Corrugated polycarbonate or asphalt roofing sheets',
+      'Exterior decking screws (2-1/2" & 3") and heavy-duty hinges/latches'
+    ],
+    tools: [
+      'Cordless drill and driver bit set',
+      'Circular saw or compound miter saw',
+      'Jigsaw for notches and chicken pop-door',
+      'Random orbital sander (80 and 120 grit)',
+      'Measuring tape, speed square, and 4-ft level',
+      'Heavy-duty wire snips or angle grinder for mesh'
+    ],
+    steps: [
+      'Build the Base Frame: Construct square 72" × 72" ground base with treated 2x4s and install 3/4" plywood floor.',
+      'Add the Wall Frames: Build side, front, and back wall panels with 14 wall studs (2x4x72"), roughing in doors and nest boxes.',
+      'Install the Roof Frame: Secure 7 roof rafters (2x4x72") at an angle and attach weather-tight roofing panels.',
+      'Attach Nesting Boxes and Outdoor Run: Mount 3-bay nesting box unit with exterior lid, install roosts, frame 96" run, and wrap with hardware cloth.',
+      'Finish, Paint, and Add Accessories: Sand smooth, paint with animal-safe exterior finish, mount predator-proof latches, and install feeders.'
+    ]
+  },
+  {
     id: 'space-saving-tailgate-workbench',
     title: 'DIY Foldable Tailgate Workbench',
     category: 'Space-Saving Projects',
