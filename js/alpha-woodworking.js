@@ -266,6 +266,45 @@ const ALPHA_PROJECTS_DATA = [
     ]
   },
   {
+    id: 'backyard-mini-bar-shed',
+    title: 'Backyard Mini Bar Shed (Outdoor Bar & Serving Counter)',
+    category: 'Backyard Projects',
+    categorySlug: 'backyard-mini-bar-shed.html',
+    difficulty: 'Beginner – Intermediate',
+    time: '2–3 Weekends',
+    budget: '$320 – $750',
+    dimensions: '10\' W × 6\' D × 8\' H (Standard) | 8\' Compact | 12\' Large',
+    image: 'images/backyard-mini-bar-shed.jpg',
+    pinImage: 'images/backyard-mini-bar-shed.jpg',
+    excerpt: 'Transform your backyard into the ultimate outdoor entertainment lounge with a stylish wooden mini bar shed featuring a fold-up window awning with gas struts, wide drink counter, and back-bar shelves.',
+    keywords: 'backyard mini bar shed, outdoor bar plans, garden bar shed, diy bar shed blueprints, outdoor drink counter, backyard makeover woodworking',
+    materials: [
+      'Foundation & Corner Posts: 4x4 pressure-treated ground-contact posts (x4)',
+      'Wall Framing & Plates: 2x4 kiln-dried SPF framing lumber (x8)',
+      'Roof Rafters & Headers: 2x6 framing lumber for sloped single-pitch roof (x6)',
+      'Exterior Siding: 1x6 shiplap or tongue-and-groove siding boards (x18)',
+      'Bar Serving Counter: 2x10 solid cedar or pine counter boards (x2)',
+      'Subfloor & Roof Sheathing: 3/4" exterior-grade plywood sheets',
+      'Trim & Fascia: 1x4 exterior casing boards (x8)',
+      'Hardware: Heavy-duty T-hinges, gas strut lift supports, pad-lockable barrel latch, 3" exterior star-drive decking screws'
+    ],
+    tools: [
+      'Cordless drill & impact driver set with magnetic bit extensions',
+      'Circular saw and compound miter saw',
+      'Random orbital sander with 80, 120, and 180 grit sanding discs',
+      'Measuring tape, carpenter pencil & 12" speed square',
+      '4-Foot carpenter spirit level',
+      'Safety glasses, dust mask, and hearing protection'
+    ],
+    steps: [
+      'Build Base Frame: Measure and assemble 10\' × 6\' pressure-treated floor joists spaced 16" O.C., check diagonal squareness, and secure 3/4" plywood subfloor.',
+      'Construct Wall Framing: Frame front, back, and side stud walls on the deck, leaving rough openings for the 6-foot serving window and side entry door, then raise and anchor plumb.',
+      'Install Sloped Roof Rafters: Seat six 2x6 rafters spanning front-to-back with a single-pitch shed slope, overhangs, and secure with hurricane ties and plywood sheathing.',
+      'Attach Exterior Siding & Side Door: Install 1x6 protective siding boards horizontally, build the braced side door with heavy-duty T-hinges, and seal corners with 1x4 trim.',
+      'Mount Bar Counter, Awning & Shelves: Fasten dual 2x10 bar counter, hang fold-up awning window supported by gas lift struts, install interior multi-tier back-bar shelving, and hang bistro string lights!'
+    ]
+  },
+  {
     id: 'wooden-christmas-tree-shelf',
     title: 'DIY Wooden Christmas Tree Shelf',
     category: 'Beginner Projects',
